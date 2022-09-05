@@ -44,7 +44,7 @@ def get_player_names():
     prGreen('-' * 80)
     prGreen("                     ██████████████████████████████████████ ")
     prGreen("                     █ Welcome to our tic Tac Toe 3D game █ ")
-    prGreen("                     █   by Gal, Lior, Hagai, and Yoav    █ ")
+    prGreen("                     █   by Gal, Lior, Hagai and Yoav    █ ")
     prGreen("                     ██████████████████████████████████████ ")
     prGreen('-' * 80)
     print()
