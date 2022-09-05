@@ -290,7 +290,7 @@ def print_game_winner(players, turn_index):
     prGreen('-' * 80)
 
 
-def the_tic_tac_toe_3D_show():
+def tic_tac_toe_3D():
     another_game = True
     names = get_player_names()
     turn_index = get_random_starter()
